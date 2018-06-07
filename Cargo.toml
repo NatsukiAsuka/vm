@@ -1,0 +1,6 @@
+[package]
+name = "jvm"
+version = "0.1.0"
+authors = ["yingchaoyong <yingchaoyong@gmail.com>"]
+
+[dependencies]
